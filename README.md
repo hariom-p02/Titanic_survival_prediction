@@ -114,5 +114,5 @@ Deployment as a web app using Flask/Streamlit
 
 
 📬 Contact
-Project by: Kajal Pawar
-📧 Email: kajal03.pawar@gmail.com.com
+Project by: Hariom Pawar
+📧 Email: hariompawar.eng@gmail.com.com
